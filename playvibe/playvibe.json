@@ -5,6 +5,6 @@
   "forceUpdate": false,
   "changelog": "- Recherche universelle multi-sources (Local + Streaming direct + TMDB)\n- Prise en charge des 11 fournisseurs VOD avec bypass DoH\n- Popcorn Time P2P HD/4K\n- Systeme de mise a jour In-App automatique\n- Interface responsive et defilement vertical fluide",
   "versionCode": 28,
-  "appId": "com.playvid",
-  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvid/playvid-v1.0.3.apk"
+  "appId": "com.playvibe",
+  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.0.3.apk"
 }
