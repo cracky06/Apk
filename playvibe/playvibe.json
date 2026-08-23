@@ -1,10 +1,10 @@
-﻿{
-  "versionCode": 30,
+{
+  "versionCode": 36,
   "appId": "com.playvibe",
-  "changelog": "- Correction totale de la recherche avec apostrophes (droites, courbes, HTML &#39;, accents)\n- Mise a jour In-App in-place (remplacement transparent sans doubler l'app)\n- Migration automatique des reglages, favoris et sources depuis l'ancien package\n- Moteur de recherche et streaming multi-sources optimise",
-  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.0.5.apk",
+  "changelog": "- Refonte Visuelle & Ergonomique complète Infuse / Glass & Neon (Maquettes officielles)\n- Nouvelle barre de navigation basse en verre dépoli avec pilule néon cyan éclatante\n- Hero Banner avec bouton rond cyan centré ▶ et carte incurvée 20dp\n- Grille des Nouveautés multi-colonnes avec badges réels des fournisseurs (Popcorn 4K, Pilkol, Bovmi, Grizox...)\n- Sélecteurs de sites indépendants et réactifs dans les Réglages\n- Accordéons de paramétrage par catégorie (Streaming, Torrents, Lecture, Affichage, Mises à jour)\n- Recherche multi-sources avec tolérance totale aux apostrophes et 3 carrousels catégorisés",
+  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.1.1.apk",
   "forceUpdate": false,
   "minSupportedVersion": 1,
-  "versionName": "1.0.5",
-  "releaseDate": "2026-08-23"
+  "versionName": "1.1.1",
+  "releaseDate": "2026-08-24"
 }
