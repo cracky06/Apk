@@ -4,7 +4,7 @@
     "versionName":  "1.0.1",
     "minSupportedVersion":  1,
     "apkUrl":  "https://raw.githubusercontent.com/cracky06/Apk/main/playvid/playvid-latest.apk",
-    "changelog":  "- Mise a jour PlayVibe v1.0.1\n- Nettoyage section A propos et increment version",
+    "changelog":  "- Detection dynamique du nom reel de l\u0027appareil\n- Optimisations et stabilite PlayVibe",
     "forceUpdate":  false,
     "releaseDate":  "2026-08-23"
 }
