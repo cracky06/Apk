@@ -1,10 +1,10 @@
 {
-  "appId": "com.playvid",
-  "versionCode": 27,
-  "versionName": "1.0.2",
-  "minSupportedVersion": 1,
-  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvid/playvid-latest.apk",
-  "changelog": "- Mise a jour automatique vers PlayVibe v1.0.2 !\n- Affichage dynamique du nom reel de l'appareil\n- Optimisations lecteur et indexation",
-  "forceUpdate": false,
-  "releaseDate": "2026-08-23"
+    "appId":  "com.playvid",
+    "versionCode":  27,
+    "versionName":  "1.0.2",
+    "minSupportedVersion":  1,
+    "apkUrl":  "https://raw.githubusercontent.com/cracky06/Apk/main/playvid/playvid-v1.0.2.apk",
+    "changelog":  "- Version officielle PlayVibe v1.0.2\n- Correction complete du paquet d\u0027installation In-App\n- Nom reel de l\u0027appareil dynamique",
+    "forceUpdate":  false,
+    "releaseDate":  "2026-08-23"
 }
