@@ -1,10 +1,10 @@
 ﻿{
     "appId":  "com.playvid",
-    "versionCode":  25,
-    "versionName":  "0.29.1",
+    "versionCode":  26,
+    "versionName":  "1.0.1",
     "minSupportedVersion":  1,
     "apkUrl":  "https://raw.githubusercontent.com/cracky06/Apk/main/playvid/playvid-latest.apk",
-    "changelog":  "- Mise a jour de test v0.29.1\n- Verification du flux de mise a jour In-App",
+    "changelog":  "- Mise a jour PlayVibe v1.0.1\n- Nettoyage section A propos et increment version",
     "forceUpdate":  false,
     "releaseDate":  "2026-08-23"
 }
