@@ -1,10 +1,10 @@
 ﻿{
-  "releaseDate": "2026-08-23",
   "minSupportedVersion": 1,
-  "versionName": "1.0.3",
-  "forceUpdate": false,
-  "changelog": "- Recherche universelle multi-sources (Local + Streaming direct + TMDB)\n- Prise en charge des 11 fournisseurs VOD avec bypass DoH\n- Popcorn Time P2P HD/4K\n- Systeme de mise a jour In-App automatique\n- Interface responsive et defilement vertical fluide",
-  "versionCode": 28,
+  "versionName": "1.0.4",
   "appId": "com.playvibe",
-  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.0.3.apk"
+  "versionCode": 29,
+  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.0.4.apk",
+  "releaseDate": "2026-08-23",
+  "changelog": "- Recherche universelle multi-sources simultanee (Local/NAS + Streaming direct + TMDB)\n- Moteur Pilkol, Bovmi, Grizox, Wavob avec DoH bypass\n- Popcorn Time P2P HD/4K\n- Mise a jour In-App automatique & manuelle\n- Suppression mention (Infuse Edition) & Affichage du nom reel de l'appareil",
+  "forceUpdate": false
 }
