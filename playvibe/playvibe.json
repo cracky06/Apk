@@ -1,10 +1,10 @@
-{
-  "versionCode": 36,
-  "appId": "com.playvibe",
-  "changelog": "- Refonte Visuelle & Ergonomique complète Infuse / Glass & Neon (Maquettes officielles)\n- Nouvelle barre de navigation basse en verre dépoli avec pilule néon cyan éclatante\n- Hero Banner avec bouton rond cyan centré ▶ et carte incurvée 20dp\n- Grille des Nouveautés multi-colonnes avec badges réels des fournisseurs (Popcorn 4K, Pilkol, Bovmi, Grizox...)\n- Sélecteurs de sites indépendants et réactifs dans les Réglages\n- Accordéons de paramétrage par catégorie (Streaming, Torrents, Lecture, Affichage, Mises à jour)\n- Recherche multi-sources avec tolérance totale aux apostrophes et 3 carrousels catégorisés",
-  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.1.1.apk",
-  "forceUpdate": false,
-  "minSupportedVersion": 1,
-  "versionName": "1.1.1",
-  "releaseDate": "2026-08-24"
+﻿{
+    "versionCode":  37,
+    "appId":  "com.playvibe",
+    "changelog":  "- Refonte Visuelle et Ergonomique complete Infuse / Glass \u0026 Neon (Maquettes officielles)\n- Barre de navigation Glass \u0026 Neon et filtres reactifs\n- Boutons d\u0027ajout et d\u0027exploration reseau optimises pour mobile portrait\n- Selecteurs de sites streaming independants dans les Reglages",
+    "apkUrl":  "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.1.2.apk",
+    "forceUpdate":  false,
+    "minSupportedVersion":  1,
+    "versionName":  "1.1.2",
+    "releaseDate":  "2026-08-24"
 }
