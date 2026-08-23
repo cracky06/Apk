@@ -1,10 +1,10 @@
 ﻿{
-  "minSupportedVersion": 1,
-  "versionName": "1.0.4",
+  "versionCode": 30,
   "appId": "com.playvibe",
-  "versionCode": 29,
-  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.0.4.apk",
-  "releaseDate": "2026-08-23",
-  "changelog": "- Recherche universelle multi-sources simultanee (Local/NAS + Streaming direct + TMDB)\n- Moteur Pilkol, Bovmi, Grizox, Wavob avec DoH bypass\n- Popcorn Time P2P HD/4K\n- Mise a jour In-App automatique & manuelle\n- Suppression mention (Infuse Edition) & Affichage du nom reel de l'appareil",
-  "forceUpdate": false
+  "changelog": "- Correction totale de la recherche avec apostrophes (droites, courbes, HTML &#39;, accents)\n- Mise a jour In-App in-place (remplacement transparent sans doubler l'app)\n- Migration automatique des reglages, favoris et sources depuis l'ancien package\n- Moteur de recherche et streaming multi-sources optimise",
+  "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.0.5.apk",
+  "forceUpdate": false,
+  "minSupportedVersion": 1,
+  "versionName": "1.0.5",
+  "releaseDate": "2026-08-23"
 }
