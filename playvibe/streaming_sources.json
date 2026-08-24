@@ -1,0 +1,101 @@
+﻿[
+    {
+        "id":  "bovmi",
+        "name":  "Bovmi",
+        "url":  "https://bovmi.com",
+        "category":  "Streaming VF",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572122335
+    },
+    {
+        "id":  "grizox",
+        "name":  "Grizox",
+        "url":  "https://grizox.com",
+        "category":  "Streaming VF",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572122812
+    },
+    {
+        "id":  "wavob",
+        "name":  "Wavob",
+        "url":  "https://wavob.com",
+        "category":  "Streaming VF",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572123355
+    },
+    {
+        "id":  "pilkol",
+        "name":  "Pilkol",
+        "url":  "https://pilkol.com",
+        "category":  "Streaming VF",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572123497
+    },
+    {
+        "id":  "french_stream",
+        "name":  "French-Stream",
+        "url":  "https://french-stream.al",
+        "category":  "Streaming VF",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572123861
+    },
+    {
+        "id":  "wiflix",
+        "name":  "Wiflix",
+        "url":  "https://wiflix.voto",
+        "category":  "Streaming VF",
+        "isFrench":  true,
+        "isOnline":  false,
+        "lastChecked":  1787572124226
+    },
+    {
+        "id":  "rivestream",
+        "name":  "RiveStream",
+        "url":  "https://www.rivestream.app",
+        "category":  "Agregateur HD",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572124338
+    },
+    {
+        "id":  "corsflix",
+        "name":  "CorsFlix",
+        "url":  "https://watch.corsflix.net",
+        "category":  "Agregateur HD",
+        "isFrench":  true,
+        "isOnline":  true,
+        "lastChecked":  1787572124444
+    },
+    {
+        "id":  "cineby",
+        "name":  "Cineby",
+        "url":  "https://cineby.at",
+        "category":  "Agregateur HD",
+        "isFrench":  false,
+        "isOnline":  true,
+        "lastChecked":  1787572124742
+    },
+    {
+        "id":  "popcornmovies",
+        "name":  "PopcornMovies",
+        "url":  "https://popcornmovies.ac",
+        "category":  "Streaming VF/VO",
+        "isFrench":  false,
+        "isOnline":  true,
+        "lastChecked":  1787572124880
+    },
+    {
+        "id":  "fmovies",
+        "name":  "FMovies+",
+        "url":  "https://www.fmovies.gd",
+        "category":  "Streaming VOSTFR",
+        "isFrench":  false,
+        "isOnline":  true,
+        "lastChecked":  1787572125076
+    }
+]
