@@ -1,7 +1,7 @@
-{
+﻿{
     "versionCode": 74,
     "appId": "com.playvibe",
-    "changelog": "- Vidéothèque : Section Récemment Ajouté (7 jours) avec badge 🆕\n- Streaming : Exclusion automatique des vidéos déjà présentes en local ou sur le NAS\n- Accueil : Section Vidéos Ajoutées Récemment et Radios Préférées\n- Navigation : Sous-onglets Vidéothèque / Streaming compacts et centrés\n- Fiche d'information détaillée au clic sur les affiches streaming\n- Intégration unifiée IPTV et VPN WireGuard",
+    "changelog": "- Mise a jour automatique PlayVibe v1.6.4 (build 74)",
     "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.6.4.apk",
     "forceUpdate": false,
     "minSupportedVersion": 1,
