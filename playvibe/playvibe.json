@@ -1,10 +1,10 @@
-﻿{
-    "versionCode":  37,
-    "appId":  "com.playvibe",
-    "changelog":  "- Refonte Visuelle et Ergonomique complete Infuse / Glass \u0026 Neon (Maquettes officielles)\n- Barre de navigation Glass \u0026 Neon et filtres reactifs\n- Boutons d\u0027ajout et d\u0027exploration reseau optimises pour mobile portrait\n- Selecteurs de sites streaming independants dans les Reglages",
-    "apkUrl":  "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.1.2.apk",
-    "forceUpdate":  false,
-    "minSupportedVersion":  1,
-    "versionName":  "1.1.2",
-    "releaseDate":  "2026-08-24"
+{
+    "versionCode": 74,
+    "appId": "com.playvibe",
+    "changelog": "- Vidéothèque : Section Récemment Ajouté (7 jours) avec badge 🆕\n- Streaming : Exclusion automatique des vidéos déjà présentes en local ou sur le NAS\n- Accueil : Section Vidéos Ajoutées Récemment et Radios Préférées\n- Navigation : Sous-onglets Vidéothèque / Streaming compacts et centrés\n- Fiche d'information détaillée au clic sur les affiches streaming\n- Intégration unifiée IPTV et VPN WireGuard",
+    "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v1.6.4.apk",
+    "forceUpdate": false,
+    "minSupportedVersion": 1,
+    "versionName": "1.6.4",
+    "releaseDate": "2026-08-25"
 }
