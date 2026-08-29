@@ -1,10 +1,10 @@
 ﻿{
-    "versionCode": 133,
+    "versionCode": 134,
     "appId": "com.playvibe",
-    "changelog": "- Mise a jour automatique PlayVibe v2.4.5 (build 133)",
-    "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v2.4.5.apk",
+    "changelog": "- Mise a jour automatique PlayVibe v2.4.6 (build 134)",
+    "apkUrl": "https://raw.githubusercontent.com/cracky06/Apk/main/playvibe/playvibe-v2.4.6.apk",
     "forceUpdate": false,
     "minSupportedVersion": 1,
-    "versionName": "2.4.5",
-    "releaseDate": "2026-08-29"
+    "versionName": "2.4.6",
+    "releaseDate": "2026-08-30"
 }
